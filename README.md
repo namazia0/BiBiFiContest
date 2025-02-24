@@ -16,11 +16,11 @@ In this phase we need to find security violations in the other group's code. The
 - Confidentiality (an attacker is able to learn contents from log files without authorisation)
 - Integrity (an attacker is able to fool logappend or logread into accepting their manipulated log file)
 
-# Fix it
+### Fix it
 In this phase this code received the breaks the other teams have maade against this implementation. We were supposed to fix the bugs.
 
 
-## How to testing locally
+## How to test locally
 
 1. Install docker on your system
 
