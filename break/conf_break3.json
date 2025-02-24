@@ -1,0 +1,12 @@
+{
+  "target_team": 22,
+  "type": "confidentiality",
+  "logfile": "NOBCLYUE",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-R", "-E", "QUEEN"],
+      "output": "4"
+    }
+  ]
+}

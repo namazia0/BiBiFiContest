@@ -1,0 +1,12 @@
+{
+  "target_team": 22,
+  "type": "integrity",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-R", "-G", "JOHNIE"]
+    }
+  ],
+  "logfile": "OTBCOFUR",
+  "replacement": "LVQgMTEgLUsgeHVZYkkyNnRPUHhCMXpXcEpDaXAgLUcgSk9ITiAtQSAgIE9UQkNPRlVSCi1UIDEyIC1LIHh1WWJJMjZ0T1B4QjF6V3BKQ2lwIC1HIEpPSE4gLUwgICBPVEJDT0ZVUg=="
+}

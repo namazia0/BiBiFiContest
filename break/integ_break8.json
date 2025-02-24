@@ -1,0 +1,13 @@
+{
+  "target_team": 29,
+  "type": "integrity",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-S"]
+    }
+  ],
+  "logfile": "BGINQJKK",
+  "replacement": "IntegrityFails"
+}
+

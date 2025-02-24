@@ -1,0 +1,12 @@
+{
+  "target_team": 19,
+  "type": "confidentiality",
+  "logfile": "HEGVYFST",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-R", "-G", "MAY"],
+      "output": "0"
+    }
+  ]
+}

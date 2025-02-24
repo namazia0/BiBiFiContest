@@ -1,0 +1,10 @@
+{
+  "target_team": 22,
+  "type": "integrity",
+  "commands": [
+    {
+      "program": "logappend",
+      "args": ["-K", "xuYbI26tOPxB1zWpJCip", "-T", "200", "-G", "GERDA", "-A", "OTBCOFUR"]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "target_team": 29,
+  "type": "integrity",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-R", "-E", "SHANTE"]
+    }
+  ],
+  "logfile": "BGINQJKK",
+  "replacement": "LVQgMCAtSyBCRlVYVU1YVSAtRSBPREEgLUEgQUlDVUNMTUQgCi1UIDEgLUsgQkZVWFVNWFUgLUUgT0RBIC1MIEFJQ1VDTE1E"
+}

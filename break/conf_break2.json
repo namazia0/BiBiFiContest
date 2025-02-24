@@ -1,0 +1,12 @@
+{
+  "target_team": 22,
+  "type": "confidentiality",
+  "logfile": "COJCWCPP",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-R", "-G", "DINAH"],
+      "output": "5"
+    }
+  ]
+}

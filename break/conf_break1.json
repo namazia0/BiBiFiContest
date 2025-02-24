@@ -1,0 +1,12 @@
+{
+  "target_team": 29,
+  "type": "confidentiality",
+  "logfile": "GUWCUPQJ",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-R", "-E", "SHAWNA"],
+      "output": "10"
+    }
+  ]
+}

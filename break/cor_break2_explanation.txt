@@ -1,0 +1,1 @@
+In this case we found a correctness violation beceause we provided an incorrect guest name which contains numbers and alphabetic chars and instead of providing the “invalid” as an output it was appended to the log file which should not happen because a guest name can only contain alphabetic characters.

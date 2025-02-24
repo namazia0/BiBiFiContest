@@ -1,0 +1,12 @@
+{
+  "target_team": 19,
+  "type": "integrity",
+  "commands": [
+    {
+      "program": "logread",
+      "args": ["-S"]
+    }
+  ],
+  "logfile": "PCOFZLBM",
+  "replacement": "IntegrityFails"
+}
